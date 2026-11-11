@@ -1,4 +1,4 @@
-# Vihanga-Deemantha
+# Vihanga-Deemantha-2005
 
 # 💫 About Me:
 ## 👋 Hi, I'm Vihanga!<br><br>🎓 Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka.<br><br>💻 Passionate about software development, web technologies, and creating practical solutions through code.<br><br>🚀 Always learning new technologies, improving my skills, and building projects.<br><br>📌 Interested in:<br>- Software Engineering<br>- Web Development<br>- UI/UX Design<br>- Problem Solving<br><br>✨ "while(!success) { learn(); }"
